@@ -8,7 +8,6 @@ function App() {
   return (
     <Router>
       <React.Fragment>
-        <Navbar/>
         {routes}
       </React.Fragment>
     </Router>
